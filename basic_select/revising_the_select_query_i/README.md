@@ -8,4 +8,4 @@ Query all columns for all American cities in the CITY table with populations lar
 
 The CITY table is described as follows:
 
-## [Solution](answer.py)
+## [Solution](answer.sql)
